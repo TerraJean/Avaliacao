@@ -5,8 +5,8 @@ import {BsFillEmojiHeartEyesFill, BsFillEmojiSmileFill, BsFillEmojiNeutralFill, 
 const emojiData = {
   unsatisfield:<BsFillEmojiFrownFill/> ,
   neutral: <BsFillEmojiNeutralFill/>, 
-  satisfied: <BsFillEmojiSmileFill/>,
-  very_satisfield:   <BsFillEmojiHeartEyesFill/>
+  satisfield: <BsFillEmojiSmileFill/>,
+  very_satisfield:<BsFillEmojiHeartEyesFill/>
 }
 const Tanks = ({data}) => {
   return (
